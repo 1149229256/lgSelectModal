@@ -1,0 +1,17 @@
+/node_modules
+/.pnp
+.pnp.js
+/.zip
+/config
+/public
+/lib
+/example
+/src
+/index.d.ts
+/srcTs
+/coverage
+/.babelrc
+/tsconfig.json
+/package-lock.json
+/webpack.config.js
+/webpack.config-example.js
