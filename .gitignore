@@ -3,9 +3,8 @@
 .pnp.js
 /.zip
 /config
-/public
+# /public
 /lib
-/example
 /src
 /index.d.ts
 /srcTs
